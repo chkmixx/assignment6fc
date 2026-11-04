@@ -136,29 +136,9 @@ Failed
 
 Tests cover validation, delivery calculations, empty datasets, Result, Maybe, Map, Bind, product lookup, workflow errors, and JSON loading.
 
-9. How to Run the Project
 
-Requirements
 
-Visual Studio 2022 or later.
-
-.NET 8.0 SDK.
-
-Run the application
-
-Open the solution in Visual Studio, select CosmeticsDeliverySystem as the startup project, build the solution, and run it.
-
-Run automated tests
-
-Execute the following command from the solution directory:
-
-dotnet test
-
-Build the solution
-
-dotnet build
-
-10. Conclusion
+9. Conclusion
 
 Cosmetics Delivery System demonstrates the practical application of Functional Programming principles in C#.
 
