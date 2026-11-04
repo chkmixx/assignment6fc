@@ -1,0 +1,23 @@
+[
+  {
+    "OrderId": 1,
+    "CustomerName": "Aruzhan",
+    "OrderAmount": 10000,
+    "DistanceKm": 2,
+    "IsExpress": false
+  },
+  {
+    "OrderId": 2,
+    "CustomerName": "Dana",
+    "OrderAmount": 15000,
+    "DistanceKm": 5,
+    "IsExpress": true
+  },
+  {
+    "OrderId": 3,
+    "CustomerName": "Amina",
+    "OrderAmount": 7000,
+    "DistanceKm": 0,
+    "IsExpress": false
+  }
+]
